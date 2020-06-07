@@ -1,6 +1,8 @@
 
 # Magic 8 Ball 🎱
 
+This was an assignment from an online flutter course that I am enrolled in on Udemy 
+
 ## Purpose of this project
 
 Practice what I have learned about stateful and stateless widgets in flutter to create a interactive magic 8 ball app. 
